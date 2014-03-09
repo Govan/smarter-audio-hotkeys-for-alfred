@@ -16,11 +16,11 @@ iTunes.
 ## Supported Applications
 *  iTunes
 *  Instacast
+*  Quicktime Player
 
 ## Todo
 
 *  Refactor the scripts so they're not repeated for each hotkey 
-*  Add support for QuickTime Player
 
 ## License
 
