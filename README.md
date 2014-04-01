@@ -20,7 +20,7 @@ iTunes.
 
 ## Todo
 
-*  Refactor the scripts so they're not repeated for each hotkey 
+*  Before checking if at app is playing, check to see if it's running. That'll stop Quicktime crapping out when it's got no open documents 
 
 ## License
 
