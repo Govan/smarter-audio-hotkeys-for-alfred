@@ -19,8 +19,8 @@ iTunes.
 *  Quicktime Player
 
 ## Todo
-
-*  Before checking if at app is playing, check to see if it's running. That'll stop Quicktime crapping out when it's got no open documents 
+* Visual feedback for non-iTunes apps
+* Support for more applications
 
 ## License
 
