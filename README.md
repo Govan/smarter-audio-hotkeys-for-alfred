@@ -17,6 +17,7 @@ iTunes.
 *  iTunes
 *  Instacast
 *  Quicktime Player
+*  Spotify
 
 ## Todo
 * Visual feedback for non-iTunes apps
